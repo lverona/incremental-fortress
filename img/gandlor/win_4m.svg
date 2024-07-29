@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg64"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   sodipodi:docname="win_4.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs68" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1118"
+     id="namedview66"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="2.633789"
+     inkscape:cx="19.749342"
+     inkscape:cy="53.139525"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg64" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:53.47000122px;font-family:Jost;-inkscape-font-specification:'Jost Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
+     x="99.06665"
+     y="70.889206"
+     id="text232"><tspan
+       sodipodi:role="line"
+       x="99.06665"
+       y="70.889206"
+       id="tspan679">+4</tspan><tspan
+       sodipodi:role="line"
+       x="99.06665"
+       y="124.35921"
+       id="tspan12">mins</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:Jost;-inkscape-font-specification:'Jost Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
+     x="99.633316"
+     y="188.22989"
+     id="text48"><tspan
+       sodipodi:role="line"
+       x="99.633316"
+       y="188.22989"
+       id="tspan50">click to collect</tspan></text>
+</svg>
